@@ -1,0 +1,6 @@
+1 go to resources/db/migration/V0_0_1_create_schemas.sql
+2 change db properties to yours
+3 execute file from step 1
+4 Run the project
+5 Test methods (located in ArticleController)
+I tested API in POSTMAN manually
